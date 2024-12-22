@@ -9,7 +9,8 @@
 
 
 
-Скрины:
+Скрины:  
+
 Для мобильного приложения:  
 
 ![image](https://github.com/user-attachments/assets/e4186fd8-691b-4dd2-b0f1-f15dbd53ec0b)  
