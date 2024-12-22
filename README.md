@@ -10,7 +10,8 @@
 
 
 Скрины:
-Для мобильного приложения:
+Для мобильного приложения:  
+
 ![image](https://github.com/user-attachments/assets/e4186fd8-691b-4dd2-b0f1-f15dbd53ec0b)  
 ![image](https://github.com/user-attachments/assets/0ff22ea6-1c5e-4b56-9008-07cee4d2fa9c)  
 ![image](https://github.com/user-attachments/assets/98151b4c-e610-4084-a7cd-ee65e09b1ab3)  
